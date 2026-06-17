@@ -1,9 +1,11 @@
-# SQL-SERVER-PRACTICAL-TEST
+# Task I — Programmable Object Maintenance Challenge
 
-echo "# demo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Parth-The-Developer/demo.git
-git push -u origin main
+## Student Information
+
+| Field | Value |
+| --- | --- |
+| **Student Name** | Sahil Maniya |
+| **Student Number** | N01769967 |
+| **Course** | SQL Server Database Dev (ITE-5223-0NA) |
+| **Database** | AdventureWorks2022 |
+| **Schema** | RetailAnalytics |
